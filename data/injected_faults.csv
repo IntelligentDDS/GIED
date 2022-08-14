@@ -1,0 +1,929 @@
+TimeStamp,inject_serive,inject_type,time,last_time (s)
+2022-03-23 16:07:00,addtocart,excessive flow,12,180
+2022-03-23 16:26:00,productcatalogservice,faulty-update,31,180
+2022-03-23 16:44:00,productcatalogservice,latency,49,180
+2022-03-23 17:04:00,productcatalogservice,latency,69,180
+2022-03-23 17:23:00,mysql,db_delay,88,180
+2022-03-23 17:41:00,checkoutservice,faulty-update,106,180
+2022-03-23 18:00:00,setcurrency,excessive flow,125,180
+2022-03-23 18:19:00,mysql,db_delay,144,180
+2022-03-23 18:38:00,recommendationservice,cpu,163,180
+2022-03-23 18:57:00,checkoutservice,faulty-update,182,180
+2022-03-23 19:16:00,cartservice,latency,201,180
+2022-03-23 19:35:00,browseproduct,excessive flow,220,180
+2022-03-23 19:54:00,browseproduct,excessive flow,239,180
+2022-03-23 20:13:00,currencyservice,faulty-update,258,180
+2022-03-23 20:32:00,recommendationservice,latency,277,180
+2022-03-23 20:52:00,setcurrency,excessive flow,297,180
+2022-03-23 21:10:00,index,excessive flow,315,180
+2022-03-23 21:29:00,paymentservice,faulty-update,334,180
+2022-03-23 21:47:00,adservice,faulty-update,352,180
+2022-03-23 22:07:00,emailservice,faulty-update,372,180
+2022-03-23 22:25:00,mysql,db_delay,390,180
+2022-03-23 22:45:00,mysql,db_delay,410,180
+2022-03-23 23:04:00,currencyservice,cpu,429,180
+2022-03-23 23:23:00,productcatalogservice,faulty-update,448,180
+2022-03-23 23:41:00,shippingservice,faulty-update,466,180
+2022-03-24 00:00:00,browseproduct,excessive flow,485,180
+2022-03-24 00:18:00,recommendationservice,cpu,503,180
+2022-03-24 00:37:00,mysql,db_delay,522,180
+2022-03-24 00:57:00,checkout,excessive flow,542,180
+2022-03-24 01:15:00,mysql,db_delay,560,180
+2022-03-24 01:34:00,paymentservice,cpu,579,180
+2022-03-24 01:54:00,emailservice,faulty-update,599,180
+2022-03-24 02:14:00,mysql,db_delay,619,180
+2022-03-24 02:33:00,shippingservice,cpu,638,180
+2022-03-24 02:52:00,checkoutservice,cpu,657,180
+2022-03-24 03:11:00,adservice,cpu,676,180
+2022-03-24 03:30:00,browseproduct,excessive flow,695,180
+2022-03-24 03:49:00,recommendationservice,latency,714,180
+2022-03-24 04:07:00,productcatalogservice,faulty-update,732,180
+2022-03-24 04:25:00,checkoutservice,faulty-update,750,180
+2022-03-24 04:43:00,mysql,db_delay,768,180
+2022-03-24 05:02:00,adservice,faulty-update,787,180
+2022-03-24 05:20:00,mysql,db_delay,805,180
+2022-03-24 05:39:00,checkoutservice,cpu,824,180
+2022-03-24 05:58:00,adservice,cpu,843,180
+2022-03-24 06:17:00,emailservice,faulty-update,862,180
+2022-03-24 06:36:00,mysql,db_delay,881,180
+2022-03-24 06:55:00,shippingservice,cpu,900,180
+2022-03-24 07:15:00,viewcart,excessive flow,920,180
+2022-03-24 07:34:00,checkoutservice,latency,939,180
+2022-03-24 07:53:00,mysql,db_delay,958,180
+2022-03-24 08:13:00,cartservice,faulty-update,978,180
+2022-03-24 08:33:00,checkoutservice,faulty-update,998,180
+2022-03-24 08:53:00,productcatalogservice,latency,1018,180
+2022-03-24 09:11:00,shippingservice,cpu,1036,180
+2022-03-24 09:30:00,productcatalogservice,faulty-update,1055,180
+2022-03-24 09:49:00,productcatalogservice,faulty-update,1074,180
+2022-03-24 10:08:00,index,excessive flow,1093,180
+2022-03-24 10:27:00,addtocart,excessive flow,1112,180
+2022-03-24 10:45:00,checkoutservice,faulty-update,1130,180
+2022-03-24 11:04:00,emailservice,faulty-update,1149,180
+2022-03-24 11:23:00,addtocart,excessive flow,1168,180
+2022-03-24 11:41:00,viewcart,excessive flow,1186,180
+2022-03-24 12:01:00,paymentservice,faulty-update,1206,180
+2022-03-24 12:19:00,cartservice,cpu,1224,180
+2022-03-24 12:40:00,shippingservice,faulty-update,1245,180
+2022-03-24 12:59:00,adservice,cpu,1264,180
+2022-03-24 13:17:00,recommendationservice,latency,1282,180
+2022-03-24 13:36:00,checkout,excessive flow,1301,180
+2022-03-24 13:56:00,adservice,faulty-update,1321,180
+2022-03-24 14:14:00,adservice,cpu,1339,180
+2022-03-24 14:33:00,checkoutservice,cpu,1358,180
+2022-03-24 14:52:00,checkout,excessive flow,1377,180
+2022-03-24 15:11:00,adservice,cpu,1396,180
+2022-03-24 15:29:00,viewcart,excessive flow,1414,180
+2022-03-24 15:49:00,shippingservice,cpu,1434,180
+2022-03-24 16:07:00,viewcart,excessive flow,1452,180
+2022-03-24 16:26:00,viewcart,excessive flow,1471,180
+2022-03-24 16:44:00,viewcart,excessive flow,1489,180
+2022-03-24 17:03:00,mysql,db_delay,1508,180
+2022-03-24 17:22:00,mysql,db_delay,1527,180
+2022-03-24 17:41:00,paymentservice,faulty-update,1546,180
+2022-03-24 18:00:00,mysql,db_delay,1565,180
+2022-03-24 18:19:00,browseproduct,excessive flow,1584,180
+2022-03-24 18:38:00,shippingservice,cpu,1603,180
+2022-03-24 18:57:00,setcurrency,excessive flow,1622,180
+2022-03-24 19:15:00,productcatalogservice,faulty-update,1640,180
+2022-03-24 19:34:00,browseproduct,excessive flow,1659,180
+2022-03-24 19:52:00,checkout,excessive flow,1677,180
+2022-03-24 20:11:00,mysql,db_delay,1696,180
+2022-03-24 20:29:00,adservice,faulty-update,1714,180
+2022-03-24 20:49:00,emailservice,cpu,1734,180
+2022-03-24 21:07:00,cartservice,latency,1752,180
+2022-03-24 21:26:00,currencyservice,faulty-update,1771,180
+2022-03-24 21:45:00,currencyservice,faulty-update,1790,180
+2022-03-24 22:03:00,recommendationservice,latency,1808,180
+2022-03-24 22:22:00,adservice,cpu,1827,180
+2022-03-24 22:42:00,adservice,cpu,1847,180
+2022-03-24 23:00:00,adservice,faulty-update,1865,180
+2022-03-24 23:19:00,emailservice,cpu,1884,180
+2022-03-24 23:38:00,viewcart,excessive flow,1903,180
+2022-03-24 23:56:00,checkoutservice,cpu,1921,180
+2022-03-25 00:15:00,emailservice,faulty-update,1940,180
+2022-03-25 00:33:00,emailservice,faulty-update,1958,180
+2022-03-25 00:51:00,cartservice,faulty-update,1976,180
+2022-03-25 01:10:00,emailservice,faulty-update,1995,180
+2022-03-25 01:28:00,checkoutservice,cpu,2013,180
+2022-03-25 01:46:00,adservice,faulty-update,2031,180
+2022-03-25 02:05:00,browseproduct,excessive flow,2050,180
+2022-03-25 02:25:00,emailservice,faulty-update,2070,180
+2022-03-25 02:43:00,mysql,db_delay,2088,180
+2022-03-25 03:01:00,viewcart,excessive flow,2106,180
+2022-03-25 03:21:00,browseproduct,excessive flow,2126,180
+2022-03-25 03:39:00,emailservice,faulty-update,2144,180
+2022-03-25 03:58:00,addtocart,excessive flow,2163,180
+2022-03-25 04:16:00,adservice,cpu,2181,180
+2022-03-25 04:34:00,addtocart,excessive flow,2199,180
+2022-03-25 04:54:00,emailservice,cpu,2219,180
+2022-03-25 05:14:00,shippingservice,faulty-update,2239,180
+2022-03-25 05:32:00,recommendationservice,faulty-update,2257,180
+2022-03-25 05:51:00,currencyservice,cpu,2276,180
+2022-03-25 06:11:00,cartservice,faulty-update,2296,180
+2022-03-25 06:32:00,viewcart,excessive flow,2317,180
+2022-03-25 06:50:00,currencyservice,faulty-update,2335,180
+2022-03-25 07:09:00,setcurrency,excessive flow,2354,180
+2022-03-25 07:29:00,shippingservice,cpu,2374,180
+2022-03-25 07:48:00,adservice,cpu,2393,180
+2022-03-25 08:06:00,productcatalogservice,latency,2411,180
+2022-03-25 08:26:00,checkoutservice,cpu,2431,180
+2022-03-25 08:45:00,productcatalogservice,latency,2450,180
+2022-03-25 09:04:00,productcatalogservice,cpu,2469,180
+2022-03-25 09:23:00,setcurrency,excessive flow,2488,180
+2022-03-25 09:41:00,addtocart,excessive flow,2506,180
+2022-03-25 10:00:00,productcatalogservice,cpu,2525,180
+2022-03-25 10:18:00,adservice,faulty-update,2543,180
+2022-03-25 10:38:00,addtocart,excessive flow,2563,180
+2022-03-25 10:56:00,emailservice,cpu,2581,180
+2022-03-25 11:16:00,browseproduct,excessive flow,2601,180
+2022-03-25 11:34:00,productcatalogservice,cpu,2619,180
+2022-03-25 11:54:00,recommendationservice,faulty-update,2639,180
+2022-03-25 12:12:00,browseproduct,excessive flow,2657,180
+2022-03-25 12:31:00,emailservice,faulty-update,2676,180
+2022-03-25 12:50:00,checkout,excessive flow,2695,180
+2022-03-25 13:08:00,emailservice,cpu,2713,180
+2022-03-25 13:26:00,emailservice,faulty-update,2731,180
+2022-03-25 13:46:00,adservice,faulty-update,2751,180
+2022-03-25 14:05:00,checkoutservice,latency,2770,180
+2022-03-25 14:25:00,mysql,db_delay,2790,180
+2022-03-25 14:44:00,mysql,db_delay,2809,180
+2022-03-25 15:03:00,productcatalogservice,faulty-update,2828,180
+2022-03-25 15:22:00,recommendationservice,latency,2847,180
+2022-03-25 15:41:00,productcatalogservice,latency,2866,180
+2022-03-25 16:00:00,recommendationservice,latency,2885,180
+2022-03-25 16:19:00,setcurrency,excessive flow,2904,180
+2022-03-25 16:38:00,mysql,db_delay,2923,180
+2022-03-25 16:57:00,checkoutservice,cpu,2942,180
+2022-03-25 17:17:00,currencyservice,faulty-update,2962,180
+2022-03-25 17:35:00,mysql,db_delay,2980,180
+2022-03-25 17:54:00,productcatalogservice,latency,2999,180
+2022-03-25 18:13:00,mysql,db_delay,3018,180
+2022-03-25 18:33:00,adservice,cpu,3038,180
+2022-03-25 18:52:00,emailservice,cpu,3057,180
+2022-03-25 19:12:00,productcatalogservice,latency,3077,180
+2022-03-25 19:32:00,index,excessive flow,3097,180
+2022-03-25 19:51:00,productcatalogservice,faulty-update,3116,180
+2022-03-25 20:10:00,mysql,db_delay,3135,180
+2022-03-25 20:29:00,checkoutservice,faulty-update,3154,180
+2022-03-25 20:48:00,shippingservice,cpu,3173,180
+2022-03-25 21:07:00,emailservice,faulty-update,3192,180
+2022-03-25 21:25:00,index,excessive flow,3210,180
+2022-03-25 21:45:00,cartservice,cpu,3230,180
+2022-03-25 22:03:00,mysql,db_delay,3248,180
+2022-03-25 22:21:00,adservice,cpu,3266,180
+2022-03-25 22:41:00,productcatalogservice,faulty-update,3286,180
+2022-03-25 22:59:00,recommendationservice,latency,3304,180
+2022-03-25 23:18:00,mysql,db_delay,3323,180
+2022-03-25 23:38:00,mysql,db_delay,3343,180
+2022-03-25 23:56:00,mysql,db_delay,3361,180
+2022-03-26 00:15:00,index,excessive flow,3380,180
+2022-03-26 00:34:00,adservice,cpu,3399,180
+2022-03-26 00:53:00,setcurrency,excessive flow,3418,180
+2022-03-26 01:12:00,productcatalogservice,faulty-update,3437,180
+2022-03-26 01:32:00,browseproduct,excessive flow,3457,180
+2022-03-26 01:50:00,productcatalogservice,latency,3475,180
+2022-03-26 02:10:00,index,excessive flow,3495,180
+2022-03-26 02:30:00,productcatalogservice,cpu,3515,180
+2022-03-26 02:49:00,mysql,db_delay,3534,180
+2022-03-26 03:08:00,adservice,faulty-update,3553,180
+2022-03-26 03:27:00,mysql,db_delay,3572,180
+2022-03-26 03:47:00,emailservice,cpu,3592,180
+2022-03-26 04:06:00,recommendationservice,faulty-update,3611,180
+2022-03-26 04:24:00,recommendationservice,latency,3629,180
+2022-03-26 04:43:00,emailservice,faulty-update,3648,180
+2022-03-26 05:02:00,mysql,db_delay,3667,180
+2022-03-26 05:22:00,checkoutservice,faulty-update,3687,180
+2022-03-26 05:41:00,productcatalogservice,cpu,3706,180
+2022-03-26 05:59:00,paymentservice,faulty-update,3724,180
+2022-03-26 06:18:00,browseproduct,excessive flow,3743,180
+2022-03-26 06:38:00,currencyservice,faulty-update,3763,180
+2022-03-26 06:57:00,emailservice,cpu,3782,180
+2022-03-26 07:17:00,adservice,faulty-update,3802,180
+2022-03-26 07:36:00,addtocart,excessive flow,3821,180
+2022-03-26 07:54:00,adservice,cpu,3839,180
+2022-03-26 08:13:00,paymentservice,faulty-update,3858,180
+2022-03-26 08:32:00,productcatalogservice,latency,3877,180
+2022-03-26 08:50:00,paymentservice,cpu,3895,180
+2022-03-26 09:10:00,shippingservice,faulty-update,3915,180
+2022-03-26 09:29:00,adservice,faulty-update,3934,180
+2022-03-26 09:47:00,currencyservice,cpu,3952,180
+2022-03-26 10:06:00,shippingservice,cpu,3971,180
+2022-03-26 10:25:00,cartservice,cpu,3990,180
+2022-03-26 10:44:00,paymentservice,faulty-update,4009,180
+2022-03-26 11:03:00,setcurrency,excessive flow,4028,180
+2022-03-26 11:22:00,recommendationservice,cpu,4047,180
+2022-03-26 11:41:00,emailservice,faulty-update,4066,180
+2022-03-26 11:59:00,viewcart,excessive flow,4084,180
+2022-03-26 12:18:00,index,excessive flow,4103,180
+2022-03-26 12:37:00,shippingservice,faulty-update,4122,180
+2022-03-26 12:56:00,browseproduct,excessive flow,4141,180
+2022-03-26 13:15:00,mysql,db_delay,4160,180
+2022-03-26 13:34:00,emailservice,faulty-update,4179,180
+2022-03-26 13:53:00,recommendationservice,faulty-update,4198,180
+2022-03-26 14:12:00,adservice,cpu,4217,180
+2022-03-26 14:30:00,cartservice,cpu,4235,180
+2022-03-26 14:49:00,cartservice,faulty-update,4254,180
+2022-03-26 15:10:00,emailservice,faulty-update,4275,180
+2022-03-26 15:29:00,adservice,faulty-update,4294,180
+2022-03-26 15:48:00,checkout,excessive flow,4313,180
+2022-03-26 16:08:00,index,excessive flow,4333,180
+2022-03-26 16:27:00,adservice,faulty-update,4352,180
+2022-03-26 16:45:00,mysql,db_delay,4370,180
+2022-03-26 17:04:00,checkoutservice,latency,4389,180
+2022-03-26 17:24:00,addtocart,excessive flow,4409,180
+2022-03-26 17:42:00,mysql,db_delay,4427,180
+2022-03-26 18:00:00,paymentservice,faulty-update,4445,180
+2022-03-26 18:19:00,shippingservice,faulty-update,4464,180
+2022-03-26 18:37:00,browseproduct,excessive flow,4482,180
+2022-03-26 18:57:00,productcatalogservice,cpu,4502,180
+2022-03-26 19:16:00,checkoutservice,faulty-update,4521,180
+2022-03-26 19:36:00,adservice,cpu,4541,180
+2022-03-26 19:55:00,shippingservice,faulty-update,4560,180
+2022-03-26 20:14:00,recommendationservice,faulty-update,4579,180
+2022-03-26 20:32:00,checkout,excessive flow,4597,180
+2022-03-26 20:51:00,addtocart,excessive flow,4616,180
+2022-03-26 21:11:00,adservice,faulty-update,4636,180
+2022-03-26 21:29:00,shippingservice,cpu,4654,180
+2022-03-26 21:48:00,shippingservice,faulty-update,4673,180
+2022-03-26 22:06:00,emailservice,faulty-update,4691,180
+2022-03-26 22:25:00,addtocart,excessive flow,4710,180
+2022-03-26 22:43:00,checkoutservice,latency,4728,180
+2022-03-26 23:02:00,adservice,cpu,4747,180
+2022-03-26 23:21:00,emailservice,faulty-update,4766,180
+2022-03-26 23:40:00,emailservice,faulty-update,4785,180
+2022-03-26 23:58:00,checkoutservice,cpu,4803,180
+2022-03-27 00:17:00,adservice,cpu,4822,180
+2022-03-27 00:37:00,mysql,db_delay,4842,180
+2022-03-27 00:55:00,emailservice,faulty-update,4860,180
+2022-03-27 01:14:00,productcatalogservice,latency,4879,180
+2022-03-27 01:32:00,index,excessive flow,4897,180
+2022-03-27 01:51:00,cartservice,cpu,4916,180
+2022-03-27 02:09:00,index,excessive flow,4934,180
+2022-03-27 02:27:00,checkoutservice,faulty-update,4952,180
+2022-03-27 02:46:00,adservice,faulty-update,4971,180
+2022-03-27 03:04:00,emailservice,faulty-update,4989,180
+2022-03-27 03:23:00,browseproduct,excessive flow,5008,180
+2022-03-27 03:42:00,mysql,db_delay,5027,180
+2022-03-27 04:01:00,emailservice,cpu,5046,180
+2022-03-27 04:19:00,emailservice,faulty-update,5064,180
+2022-03-27 04:38:00,setcurrency,excessive flow,5083,180
+2022-03-27 04:58:00,currencyservice,faulty-update,5103,180
+2022-03-27 05:17:00,mysql,db_delay,5122,180
+2022-03-27 05:36:00,checkout,excessive flow,5141,180
+2022-03-27 05:55:00,recommendationservice,faulty-update,5160,180
+2022-03-27 06:13:00,recommendationservice,faulty-update,5178,180
+2022-03-27 06:32:00,cartservice,latency,5197,180
+2022-03-27 06:51:00,emailservice,cpu,5216,180
+2022-03-27 07:09:00,recommendationservice,faulty-update,5234,180
+2022-03-27 07:29:00,cartservice,latency,5254,180
+2022-03-27 07:47:00,setcurrency,excessive flow,5272,180
+2022-03-27 08:06:00,productcatalogservice,cpu,5291,180
+2022-03-27 08:25:00,mysql,db_delay,5310,180
+2022-03-27 08:45:00,recommendationservice,faulty-update,5330,180
+2022-03-27 09:03:00,cartservice,faulty-update,5348,180
+2022-03-27 09:22:00,viewcart,excessive flow,5367,180
+2022-03-27 09:42:00,emailservice,faulty-update,5387,180
+2022-03-27 10:00:00,productcatalogservice,cpu,5405,180
+2022-03-27 10:19:00,mysql,db_delay,5424,180
+2022-03-27 10:38:00,checkoutservice,latency,5443,180
+2022-03-27 10:57:00,checkout,excessive flow,5462,180
+2022-03-27 11:17:00,adservice,faulty-update,5482,180
+2022-03-27 11:35:00,emailservice,faulty-update,5500,180
+2022-03-27 11:54:00,recommendationservice,latency,5519,180
+2022-03-27 12:13:00,checkout,excessive flow,5538,180
+2022-03-27 12:33:00,viewcart,excessive flow,5558,180
+2022-03-27 12:51:00,adservice,cpu,5576,180
+2022-03-27 13:10:00,mysql,db_delay,5595,180
+2022-03-27 13:29:00,mysql,db_delay,5614,180
+2022-03-27 13:49:00,adservice,cpu,5634,180
+2022-03-27 14:09:00,productcatalogservice,faulty-update,5654,180
+2022-03-27 14:28:00,emailservice,cpu,5673,180
+2022-03-27 14:46:00,mysql,db_delay,5691,180
+2022-03-27 15:06:00,mysql,db_delay,5711,180
+2022-03-27 15:25:00,recommendationservice,latency,5730,180
+2022-03-27 15:43:00,emailservice,faulty-update,5748,180
+2022-03-27 16:02:00,browseproduct,excessive flow,5767,180
+2022-03-27 16:21:00,emailservice,faulty-update,5786,180
+2022-03-27 16:40:00,paymentservice,faulty-update,5805,180
+2022-03-27 16:59:00,adservice,faulty-update,5824,180
+2022-03-27 17:18:00,cartservice,faulty-update,5843,180
+2022-03-27 17:38:00,adservice,faulty-update,5863,180
+2022-03-27 17:57:00,mysql,db_delay,5882,180
+2022-03-27 18:15:00,index,excessive flow,5900,180
+2022-03-27 18:34:00,productcatalogservice,faulty-update,5919,180
+2022-03-27 18:52:00,checkout,excessive flow,5937,180
+2022-03-27 19:11:00,adservice,faulty-update,5956,180
+2022-03-27 19:29:00,browseproduct,excessive flow,5974,180
+2022-03-27 19:48:00,checkoutservice,latency,5993,180
+2022-03-27 20:07:00,paymentservice,cpu,6012,180
+2022-03-27 20:27:00,checkoutservice,cpu,6032,180
+2022-03-27 20:45:00,mysql,db_delay,6050,180
+2022-03-27 21:04:00,recommendationservice,latency,6069,180
+2022-03-27 21:24:00,currencyservice,faulty-update,6089,180
+2022-03-27 21:42:00,recommendationservice,cpu,6107,180
+2022-03-27 22:01:00,adservice,faulty-update,6126,180
+2022-03-27 22:20:00,emailservice,cpu,6145,180
+2022-03-27 22:39:00,productcatalogservice,latency,6164,180
+2022-03-27 22:58:00,recommendationservice,faulty-update,6183,180
+2022-03-27 23:17:00,index,excessive flow,6202,180
+2022-03-27 23:36:00,recommendationservice,cpu,6221,180
+2022-03-27 23:55:00,cartservice,latency,6240,180
+2022-03-28 00:14:00,checkoutservice,faulty-update,6259,180
+2022-03-28 00:33:00,shippingservice,faulty-update,6278,180
+2022-03-28 00:52:00,browseproduct,excessive flow,6297,180
+2022-03-28 01:10:00,adservice,cpu,6315,180
+2022-03-28 01:28:00,viewcart,excessive flow,6333,180
+2022-03-28 01:46:00,adservice,cpu,6351,180
+2022-03-28 02:04:00,paymentservice,faulty-update,6369,180
+2022-03-28 02:23:00,shippingservice,faulty-update,6388,180
+2022-03-28 02:42:00,browseproduct,excessive flow,6407,180
+2022-03-28 03:00:00,productcatalogservice,faulty-update,6425,180
+2022-03-28 03:19:00,browseproduct,excessive flow,6444,180
+2022-03-28 03:38:00,viewcart,excessive flow,6463,180
+2022-03-28 03:57:00,checkoutservice,faulty-update,6482,180
+2022-03-28 04:16:00,emailservice,cpu,6501,180
+2022-03-28 04:35:00,mysql,db_delay,6520,180
+2022-03-28 04:54:00,mysql,db_delay,6539,180
+2022-03-28 05:13:00,productcatalogservice,cpu,6558,180
+2022-03-28 05:31:00,mysql,db_delay,6576,180
+2022-03-28 05:50:00,productcatalogservice,faulty-update,6595,180
+2022-03-28 06:10:00,setcurrency,excessive flow,6615,180
+2022-03-28 06:28:00,recommendationservice,faulty-update,6633,180
+2022-03-28 06:47:00,currencyservice,faulty-update,6652,180
+2022-03-28 07:06:00,adservice,faulty-update,6671,180
+2022-03-28 07:25:00,cartservice,cpu,6690,180
+2022-03-28 07:46:00,productcatalogservice,latency,6711,180
+2022-03-28 08:04:00,checkout,excessive flow,6729,180
+2022-03-28 08:22:00,adservice,faulty-update,6747,180
+2022-03-28 08:42:00,browseproduct,excessive flow,6767,180
+2022-03-28 09:01:00,emailservice,faulty-update,6786,180
+2022-03-28 09:19:00,emailservice,cpu,6804,180
+2022-03-28 09:38:00,setcurrency,excessive flow,6823,180
+2022-03-28 09:56:00,setcurrency,excessive flow,6841,180
+2022-03-28 10:15:00,mysql,db_delay,6860,180
+2022-03-28 10:33:00,emailservice,cpu,6878,180
+2022-03-28 10:52:00,emailservice,cpu,6897,180
+2022-03-28 11:10:00,mysql,db_delay,6915,180
+2022-03-28 11:30:00,addtocart,excessive flow,6935,180
+2022-03-28 11:49:00,mysql,db_delay,6954,180
+2022-03-28 12:08:00,productcatalogservice,faulty-update,6973,180
+2022-03-28 12:27:00,index,excessive flow,6992,180
+2022-03-28 12:46:00,recommendationservice,faulty-update,7011,180
+2022-03-28 13:05:00,adservice,faulty-update,7030,180
+2022-03-28 13:24:00,mysql,db_delay,7049,180
+2022-03-28 13:43:00,mysql,db_delay,7068,180
+2022-03-28 14:02:00,setcurrency,excessive flow,7087,180
+2022-03-28 14:21:00,browseproduct,excessive flow,7106,180
+2022-03-28 14:40:00,viewcart,excessive flow,7125,180
+2022-03-28 14:59:00,adservice,cpu,7144,180
+2022-03-28 15:18:00,recommendationservice,cpu,7163,180
+2022-03-28 15:36:00,viewcart,excessive flow,7181,180
+2022-03-28 15:55:00,emailservice,cpu,7200,180
+2022-03-28 16:13:00,viewcart,excessive flow,7218,180
+2022-03-28 16:31:00,addtocart,excessive flow,7236,180
+2022-03-28 16:50:00,mysql,db_delay,7255,180
+2022-03-28 17:09:00,browseproduct,excessive flow,7274,180
+2022-03-28 17:28:00,index,excessive flow,7293,180
+2022-03-28 17:47:00,shippingservice,faulty-update,7312,180
+2022-03-28 18:05:00,emailservice,faulty-update,7330,180
+2022-03-28 18:24:00,index,excessive flow,7349,180
+2022-03-28 18:42:00,checkoutservice,faulty-update,7367,180
+2022-03-28 19:01:00,index,excessive flow,7386,180
+2022-03-28 19:20:00,browseproduct,excessive flow,7405,180
+2022-03-28 19:39:00,shippingservice,faulty-update,7424,180
+2022-03-28 19:58:00,mysql,db_delay,7443,180
+2022-03-28 20:17:00,shippingservice,cpu,7462,180
+2022-03-28 20:36:00,checkout,excessive flow,7481,180
+2022-03-28 20:55:00,paymentservice,faulty-update,7500,180
+2022-03-28 21:13:00,mysql,db_delay,7518,180
+2022-03-28 21:33:00,viewcart,excessive flow,7538,180
+2022-03-28 21:52:00,adservice,faulty-update,7557,180
+2022-03-28 22:11:00,viewcart,excessive flow,7576,180
+2022-03-28 22:30:00,setcurrency,excessive flow,7595,180
+2022-03-28 22:49:00,mysql,db_delay,7614,180
+2022-03-28 23:07:00,cartservice,faulty-update,7632,180
+2022-03-28 23:26:00,recommendationservice,faulty-update,7651,180
+2022-03-28 23:45:00,adservice,cpu,7670,180
+2022-03-29 00:04:00,emailservice,cpu,7689,180
+2022-03-29 00:23:00,mysql,db_delay,7708,180
+2022-03-29 00:42:00,productcatalogservice,latency,7727,180
+2022-03-29 01:01:00,adservice,faulty-update,7746,180
+2022-03-29 01:20:00,recommendationservice,cpu,7765,180
+2022-03-29 01:38:00,productcatalogservice,latency,7783,180
+2022-03-29 01:57:00,checkoutservice,faulty-update,7802,180
+2022-03-29 02:16:00,browseproduct,excessive flow,7821,180
+2022-03-29 02:35:00,mysql,db_delay,7840,180
+2022-03-29 02:54:00,browseproduct,excessive flow,7859,180
+2022-03-29 03:13:00,setcurrency,excessive flow,7878,180
+2022-03-29 03:32:00,browseproduct,excessive flow,7897,180
+2022-03-29 03:51:00,mysql,db_delay,7916,180
+2022-03-29 04:10:00,productcatalogservice,faulty-update,7935,180
+2022-03-29 04:29:00,cartservice,faulty-update,7954,180
+2022-03-29 04:47:00,recommendationservice,latency,7972,180
+2022-03-29 05:06:00,viewcart,excessive flow,7991,180
+2022-03-29 05:26:00,adservice,faulty-update,8011,180
+2022-03-29 05:44:00,adservice,faulty-update,8029,180
+2022-03-29 06:03:00,checkout,excessive flow,8048,180
+2022-03-29 06:22:00,adservice,cpu,8067,180
+2022-03-29 06:41:00,checkoutservice,faulty-update,8086,180
+2022-03-29 07:00:00,viewcart,excessive flow,8105,180
+2022-03-29 07:18:00,mysql,db_delay,8123,180
+2022-03-29 07:37:00,mysql,db_delay,8142,180
+2022-03-29 07:57:00,recommendationservice,faulty-update,8162,180
+2022-03-29 08:16:00,emailservice,cpu,8181,180
+2022-03-29 08:34:00,setcurrency,excessive flow,8199,180
+2022-03-29 08:53:00,checkoutservice,faulty-update,8218,180
+2022-03-29 09:12:00,adservice,cpu,8237,180
+2022-03-29 09:31:00,shippingservice,faulty-update,8256,180
+2022-03-29 09:50:00,adservice,faulty-update,8275,180
+2022-03-29 10:09:00,setcurrency,excessive flow,8294,180
+2022-03-29 10:28:00,setcurrency,excessive flow,8313,180
+2022-03-29 10:47:00,checkoutservice,faulty-update,8332,180
+2022-03-29 11:05:00,addtocart,excessive flow,8350,180
+2022-03-29 11:25:00,recommendationservice,faulty-update,8370,180
+2022-03-29 11:43:00,adservice,cpu,8388,180
+2022-03-29 12:02:00,mysql,db_delay,8407,180
+2022-03-29 12:21:00,emailservice,faulty-update,8426,180
+2022-03-29 12:40:00,mysql,db_delay,8445,180
+2022-03-29 12:59:00,addtocart,excessive flow,8464,180
+2022-03-29 13:18:00,addtocart,excessive flow,8483,180
+2022-03-29 13:38:00,emailservice,faulty-update,8503,180
+2022-03-29 13:57:00,mysql,db_delay,8522,180
+2022-03-29 14:17:00,emailservice,faulty-update,8542,180
+2022-03-29 14:36:00,mysql,db_delay,8561,180
+2022-03-29 14:55:00,mysql,db_delay,8580,180
+2022-03-29 15:14:00,addtocart,excessive flow,8599,180
+2022-03-29 15:34:00,adservice,cpu,8619,180
+2022-03-29 15:53:00,adservice,cpu,8638,180
+2022-03-29 16:12:00,adservice,cpu,8657,180
+2022-03-29 16:31:00,currencyservice,faulty-update,8676,180
+2022-03-29 16:50:00,mysql,db_delay,8695,180
+2022-03-29 17:09:00,mysql,db_delay,8714,180
+2022-03-29 17:28:00,cartservice,faulty-update,8733,180
+2022-03-29 17:49:00,productcatalogservice,faulty-update,8754,180
+2022-03-29 18:08:00,paymentservice,faulty-update,8773,180
+2022-03-29 18:26:00,mysql,db_delay,8791,180
+2022-03-29 18:45:00,adservice,cpu,8810,180
+2022-03-29 19:03:00,adservice,cpu,8828,180
+2022-03-29 19:22:00,adservice,cpu,8847,180
+2022-03-29 19:41:00,checkoutservice,faulty-update,8866,180
+2022-03-29 20:01:00,cartservice,faulty-update,8886,180
+2022-03-29 20:19:00,productcatalogservice,faulty-update,8904,180
+2022-03-29 20:38:00,setcurrency,excessive flow,8923,180
+2022-03-29 20:57:00,addtocart,excessive flow,8942,180
+2022-03-29 21:16:00,shippingservice,cpu,8961,180
+2022-03-29 21:34:00,emailservice,faulty-update,8979,180
+2022-03-29 21:53:00,currencyservice,faulty-update,8998,180
+2022-03-29 22:11:00,setcurrency,excessive flow,9016,180
+2022-03-29 22:31:00,viewcart,excessive flow,9036,180
+2022-03-29 22:50:00,mysql,db_delay,9055,180
+2022-03-29 23:09:00,mysql,db_delay,9074,180
+2022-03-29 23:29:00,checkoutservice,latency,9094,180
+2022-03-29 23:47:00,browseproduct,excessive flow,9112,180
+2022-03-30 00:07:00,mysql,db_delay,9132,180
+2022-03-30 00:26:00,browseproduct,excessive flow,9151,180
+2022-03-30 00:44:00,emailservice,faulty-update,9169,180
+2022-03-30 01:03:00,setcurrency,excessive flow,9188,180
+2022-03-30 01:21:00,browseproduct,excessive flow,9206,180
+2022-03-30 01:40:00,setcurrency,excessive flow,9225,180
+2022-03-30 01:59:00,mysql,db_delay,9244,180
+2022-03-30 02:18:00,recommendationservice,faulty-update,9263,180
+2022-03-30 02:37:00,cartservice,faulty-update,9282,180
+2022-03-30 02:58:00,emailservice,faulty-update,9303,180
+2022-03-30 03:16:00,mysql,db_delay,9321,180
+2022-03-30 03:36:00,adservice,faulty-update,9341,180
+2022-03-30 03:55:00,paymentservice,cpu,9360,180
+2022-03-30 04:14:00,paymentservice,faulty-update,9379,180
+2022-03-30 04:34:00,adservice,cpu,9399,180
+2022-03-30 04:53:00,emailservice,faulty-update,9418,180
+2022-03-30 05:12:00,index,excessive flow,9437,180
+2022-03-30 05:30:00,emailservice,cpu,9455,180
+2022-03-30 05:48:00,mysql,db_delay,9473,180
+2022-03-30 06:08:00,currencyservice,cpu,9493,180
+2022-03-30 06:27:00,shippingservice,faulty-update,9512,180
+2022-03-30 06:47:00,productcatalogservice,latency,9532,180
+2022-03-30 07:05:00,shippingservice,cpu,9550,180
+2022-03-30 07:25:00,emailservice,faulty-update,9570,180
+2022-03-30 07:44:00,checkout,excessive flow,9589,180
+2022-03-30 08:03:00,emailservice,cpu,9608,180
+2022-03-30 08:21:00,mysql,db_delay,9626,180
+2022-03-30 08:40:00,emailservice,faulty-update,9645,180
+2022-03-30 08:59:00,productcatalogservice,cpu,9664,180
+2022-03-30 09:19:00,index,excessive flow,9684,180
+2022-03-30 09:38:00,index,excessive flow,9703,180
+2022-03-30 09:58:00,mysql,db_delay,9723,180
+2022-03-30 10:17:00,adservice,faulty-update,9742,180
+2022-03-30 10:37:00,cartservice,cpu,9762,180
+2022-03-30 10:56:00,browseproduct,excessive flow,9781,180
+2022-03-30 11:15:00,productcatalogservice,faulty-update,9800,180
+2022-03-30 11:33:00,index,excessive flow,9818,180
+2022-03-30 11:53:00,index,excessive flow,9838,180
+2022-03-30 12:12:00,adservice,cpu,9857,180
+2022-03-30 12:31:00,index,excessive flow,9876,180
+2022-03-30 12:50:00,recommendationservice,latency,9895,180
+2022-03-30 13:09:00,adservice,faulty-update,9914,180
+2022-03-30 13:28:00,shippingservice,faulty-update,9933,180
+2022-03-30 13:48:00,cartservice,latency,9953,180
+2022-03-30 14:07:00,emailservice,faulty-update,9972,180
+2022-03-30 14:26:00,checkout,excessive flow,9991,180
+2022-03-30 14:44:00,browseproduct,excessive flow,10009,180
+2022-03-30 15:03:00,adservice,faulty-update,10028,180
+2022-03-30 15:21:00,shippingservice,faulty-update,10046,180
+2022-03-30 15:39:00,checkout,excessive flow,10064,180
+2022-03-30 15:59:00,mysql,db_delay,10084,180
+2022-03-30 16:18:00,cartservice,cpu,10103,180
+2022-03-30 16:37:00,adservice,cpu,10122,180
+2022-03-30 16:56:00,paymentservice,faulty-update,10141,180
+2022-03-30 17:15:00,recommendationservice,faulty-update,10160,180
+2022-03-30 17:34:00,paymentservice,cpu,10179,180
+2022-03-30 17:53:00,productcatalogservice,latency,10198,180
+2022-03-30 18:11:00,emailservice,faulty-update,10216,180
+2022-03-30 18:30:00,shippingservice,faulty-update,10235,180
+2022-03-30 18:48:00,emailservice,faulty-update,10253,180
+2022-03-30 19:07:00,productcatalogservice,faulty-update,10272,180
+2022-03-30 19:26:00,checkoutservice,faulty-update,10291,180
+2022-03-30 19:45:00,checkout,excessive flow,10310,180
+2022-03-30 20:04:00,adservice,faulty-update,10329,180
+2022-03-30 20:23:00,browseproduct,excessive flow,10348,180
+2022-03-30 20:42:00,mysql,db_delay,10367,180
+2022-03-30 21:01:00,adservice,faulty-update,10386,180
+2022-03-30 21:20:00,mysql,db_delay,10405,180
+2022-03-30 21:38:00,cartservice,latency,10423,180
+2022-03-30 21:56:00,adservice,cpu,10441,180
+2022-03-30 22:16:00,index,excessive flow,10461,180
+2022-03-30 22:34:00,currencyservice,cpu,10479,180
+2022-03-30 22:53:00,mysql,db_delay,10498,180
+2022-03-30 23:12:00,checkoutservice,cpu,10517,180
+2022-03-30 23:30:00,mysql,db_delay,10535,180
+2022-03-30 23:50:00,adservice,cpu,10555,180
+2022-03-31 00:09:00,shippingservice,cpu,10574,180
+2022-03-31 00:28:00,mysql,db_delay,10593,180
+2022-03-31 00:47:00,checkoutservice,faulty-update,10612,180
+2022-03-31 01:06:00,productcatalogservice,faulty-update,10631,180
+2022-03-31 01:25:00,productcatalogservice,faulty-update,10650,180
+2022-03-31 01:44:00,checkout,excessive flow,10669,180
+2022-03-31 02:02:00,checkoutservice,cpu,10687,180
+2022-03-31 02:22:00,viewcart,excessive flow,10707,180
+2022-03-31 02:41:00,paymentservice,faulty-update,10726,180
+2022-03-31 02:59:00,checkoutservice,latency,10744,180
+2022-03-31 03:18:00,checkoutservice,latency,10763,180
+2022-03-31 03:37:00,adservice,cpu,10782,180
+2022-03-31 03:55:00,adservice,faulty-update,10800,180
+2022-03-31 04:15:00,adservice,cpu,10820,180
+2022-03-31 04:34:00,setcurrency,excessive flow,10839,180
+2022-03-31 04:54:00,mysql,db_delay,10859,180
+2022-03-31 05:13:00,checkout,excessive flow,10878,180
+2022-03-31 05:31:00,recommendationservice,faulty-update,10896,180
+2022-03-31 05:51:00,productcatalogservice,faulty-update,10916,180
+2022-03-31 06:10:00,checkoutservice,latency,10935,180
+2022-03-31 06:28:00,setcurrency,excessive flow,10953,180
+2022-03-31 06:48:00,checkoutservice,faulty-update,10973,180
+2022-03-31 07:07:00,checkoutservice,cpu,10992,180
+2022-03-31 07:25:00,checkoutservice,cpu,11010,180
+2022-03-31 07:45:00,cartservice,cpu,11030,180
+2022-03-31 08:03:00,adservice,cpu,11048,180
+2022-03-31 08:23:00,paymentservice,faulty-update,11068,180
+2022-03-31 08:42:00,paymentservice,faulty-update,11087,180
+2022-03-31 09:01:00,currencyservice,faulty-update,11106,180
+2022-03-31 09:21:00,paymentservice,faulty-update,11126,180
+2022-03-31 09:40:00,mysql,db_delay,11145,180
+2022-03-31 09:59:00,productcatalogservice,cpu,11164,180
+2022-03-31 10:17:00,recommendationservice,faulty-update,11182,180
+2022-03-31 10:36:00,currencyservice,faulty-update,11201,180
+2022-03-31 10:54:00,shippingservice,faulty-update,11219,180
+2022-03-31 11:12:00,mysql,db_delay,11237,180
+2022-03-31 11:31:00,checkoutservice,faulty-update,11256,180
+2022-03-31 11:50:00,index,excessive flow,11275,180
+2022-03-31 12:10:00,index,excessive flow,11295,180
+2022-03-31 12:28:00,checkoutservice,cpu,11313,180
+2022-03-31 12:48:00,mysql,db_delay,11333,180
+2022-03-31 13:07:00,checkoutservice,faulty-update,11352,180
+2022-03-31 13:25:00,currencyservice,faulty-update,11370,180
+2022-03-31 13:44:00,mysql,db_delay,11389,180
+2022-03-31 14:02:00,adservice,faulty-update,11407,180
+2022-03-31 14:22:00,adservice,cpu,11427,180
+2022-03-31 14:41:00,shippingservice,cpu,11446,180
+2022-03-31 15:00:00,adservice,cpu,11465,180
+2022-03-31 15:18:00,checkoutservice,faulty-update,11483,180
+2022-03-31 15:37:00,adservice,cpu,11502,180
+2022-03-31 15:56:00,cartservice,faulty-update,11521,180
+2022-03-31 16:15:00,mysql,db_delay,11540,180
+2022-03-31 16:34:00,checkoutservice,faulty-update,11559,180
+2022-03-31 16:53:00,checkoutservice,latency,11578,180
+2022-03-31 17:12:00,browseproduct,excessive flow,11597,180
+2022-03-31 17:31:00,emailservice,faulty-update,11616,180
+2022-03-31 17:50:00,shippingservice,faulty-update,11635,180
+2022-03-31 18:09:00,emailservice,faulty-update,11654,180
+2022-03-31 18:29:00,mysql,db_delay,11674,180
+2022-03-31 18:49:00,setcurrency,excessive flow,11694,180
+2022-03-31 19:07:00,adservice,cpu,11712,180
+2022-03-31 19:26:00,shippingservice,cpu,11731,180
+2022-03-31 19:44:00,checkoutservice,latency,11749,180
+2022-03-31 20:03:00,emailservice,cpu,11768,180
+2022-03-31 20:23:00,emailservice,cpu,11788,180
+2022-03-31 20:41:00,checkoutservice,cpu,11806,180
+2022-03-31 21:01:00,setcurrency,excessive flow,11826,180
+2022-03-31 21:20:00,paymentservice,faulty-update,11845,180
+2022-03-31 21:38:00,mysql,db_delay,11863,180
+2022-03-31 21:57:00,checkout,excessive flow,11882,180
+2022-03-31 22:15:00,mysql,db_delay,11900,180
+2022-03-31 22:35:00,mysql,db_delay,11920,180
+2022-03-31 22:55:00,checkout,excessive flow,11940,180
+2022-03-31 23:14:00,adservice,cpu,11959,180
+2022-03-31 23:34:00,mysql,db_delay,11979,180
+2022-03-31 23:52:00,viewcart,excessive flow,11997,180
+2022-04-01 00:12:00,index,excessive flow,12017,180
+2022-04-01 00:31:00,paymentservice,faulty-update,12036,180
+2022-04-01 00:50:00,mysql,db_delay,12055,180
+2022-04-01 01:08:00,recommendationservice,faulty-update,12073,180
+2022-04-01 01:27:00,productcatalogservice,cpu,12092,180
+2022-04-01 01:47:00,recommendationservice,faulty-update,12112,180
+2022-04-01 02:06:00,emailservice,faulty-update,12131,180
+2022-04-01 02:24:00,adservice,faulty-update,12149,180
+2022-04-01 02:43:00,currencyservice,faulty-update,12168,180
+2022-04-01 03:02:00,adservice,faulty-update,12187,180
+2022-04-01 03:22:00,browseproduct,excessive flow,12207,180
+2022-04-01 03:40:00,shippingservice,faulty-update,12225,180
+2022-04-01 03:58:00,checkout,excessive flow,12243,180
+2022-04-01 04:18:00,viewcart,excessive flow,12263,180
+2022-04-01 04:37:00,shippingservice,cpu,12282,180
+2022-04-01 04:57:00,emailservice,faulty-update,12302,180
+2022-04-01 05:15:00,currencyservice,cpu,12320,180
+2022-04-01 05:35:00,checkout,excessive flow,12340,180
+2022-04-01 05:53:00,mysql,db_delay,12358,180
+2022-04-01 06:12:00,index,excessive flow,12377,180
+2022-04-01 06:31:00,viewcart,excessive flow,12396,180
+2022-04-01 06:50:00,adservice,faulty-update,12415,180
+2022-04-01 07:09:00,browseproduct,excessive flow,12434,180
+2022-04-01 07:29:00,currencyservice,faulty-update,12454,180
+2022-04-01 07:48:00,checkoutservice,faulty-update,12473,180
+2022-04-01 08:07:00,mysql,db_delay,12492,180
+2022-04-01 08:26:00,mysql,db_delay,12511,180
+2022-04-01 08:46:00,adservice,faulty-update,12531,180
+2022-04-01 09:04:00,mysql,db_delay,12549,180
+2022-04-01 09:23:00,adservice,cpu,12568,180
+2022-04-01 09:42:00,checkoutservice,latency,12587,180
+2022-04-01 10:01:00,browseproduct,excessive flow,12606,180
+2022-04-01 10:19:00,mysql,db_delay,12624,180
+2022-04-01 10:37:00,mysql,db_delay,12642,180
+2022-04-01 10:56:00,index,excessive flow,12661,180
+2022-04-01 11:15:00,cartservice,cpu,12680,180
+2022-04-01 11:37:00,emailservice,faulty-update,12702,180
+2022-04-01 11:56:00,emailservice,faulty-update,12721,180
+2022-04-01 12:15:00,mysql,db_delay,12740,180
+2022-04-01 12:34:00,setcurrency,excessive flow,12759,180
+2022-04-01 12:53:00,cartservice,cpu,12778,180
+2022-04-01 13:12:00,viewcart,excessive flow,12797,180
+2022-04-01 13:31:00,mysql,db_delay,12816,180
+2022-04-01 13:49:00,adservice,cpu,12834,180
+2022-04-01 14:09:00,adservice,faulty-update,12854,180
+2022-04-01 14:28:00,paymentservice,faulty-update,12873,180
+2022-04-01 14:46:00,adservice,cpu,12891,180
+2022-04-01 15:05:00,productcatalogservice,latency,12910,180
+2022-04-01 15:23:00,mysql,db_delay,12928,180
+2022-04-01 15:42:00,index,excessive flow,12947,180
+2022-04-01 16:01:00,checkoutservice,faulty-update,12966,180
+2022-04-01 16:20:00,currencyservice,faulty-update,12985,180
+2022-04-01 16:40:00,currencyservice,cpu,13005,180
+2022-04-01 16:59:00,adservice,faulty-update,13024,180
+2022-04-01 17:17:00,shippingservice,cpu,13042,180
+2022-04-01 17:36:00,currencyservice,faulty-update,13061,180
+2022-04-01 17:56:00,productcatalogservice,faulty-update,13081,180
+2022-04-01 18:14:00,checkoutservice,cpu,13099,180
+2022-04-01 18:33:00,productcatalogservice,faulty-update,13118,180
+2022-04-01 18:53:00,checkoutservice,cpu,13138,180
+2022-04-01 19:11:00,emailservice,cpu,13156,180
+2022-04-01 19:29:00,productcatalogservice,faulty-update,13174,180
+2022-04-01 19:49:00,mysql,db_delay,13194,180
+2022-04-01 20:09:00,productcatalogservice,latency,13214,180
+2022-04-01 20:28:00,index,excessive flow,13233,180
+2022-04-01 20:47:00,addtocart,excessive flow,13252,180
+2022-04-01 21:06:00,mysql,db_delay,13271,180
+2022-04-01 21:26:00,checkoutservice,faulty-update,13291,180
+2022-04-01 21:44:00,addtocart,excessive flow,13309,180
+2022-04-01 22:03:00,checkoutservice,cpu,13328,180
+2022-04-01 22:22:00,adservice,cpu,13347,180
+2022-04-01 22:41:00,checkoutservice,faulty-update,13366,180
+2022-04-01 22:59:00,paymentservice,faulty-update,13384,180
+2022-04-01 23:19:00,shippingservice,faulty-update,13404,180
+2022-04-01 23:37:00,shippingservice,faulty-update,13422,180
+2022-04-01 23:57:00,productcatalogservice,cpu,13442,180
+2022-04-02 00:16:00,browseproduct,excessive flow,13461,180
+2022-04-02 00:34:00,mysql,db_delay,13479,180
+2022-04-02 00:53:00,recommendationservice,faulty-update,13498,180
+2022-04-02 01:13:00,index,excessive flow,13518,180
+2022-04-02 01:31:00,mysql,db_delay,13536,180
+2022-04-02 01:51:00,adservice,cpu,13556,180
+2022-04-02 02:11:00,checkoutservice,faulty-update,13576,180
+2022-04-02 02:29:00,emailservice,cpu,13594,180
+2022-04-02 02:48:00,mysql,db_delay,13613,180
+2022-04-02 03:08:00,adservice,cpu,13633,180
+2022-04-02 03:26:00,index,excessive flow,13651,180
+2022-04-02 03:45:00,index,excessive flow,13670,180
+2022-04-02 04:03:00,emailservice,faulty-update,13688,180
+2022-04-02 04:23:00,currencyservice,cpu,13708,180
+2022-04-02 04:43:00,paymentservice,cpu,13728,180
+2022-04-02 05:01:00,shippingservice,faulty-update,13746,180
+2022-04-02 05:20:00,mysql,db_delay,13765,180
+2022-04-02 05:39:00,mysql,db_delay,13784,180
+2022-04-02 05:58:00,productcatalogservice,faulty-update,13803,180
+2022-04-02 06:17:00,index,excessive flow,13822,180
+2022-04-02 06:36:00,adservice,faulty-update,13841,180
+2022-04-02 06:54:00,recommendationservice,latency,13859,180
+2022-04-02 07:13:00,emailservice,cpu,13878,180
+2022-04-02 07:32:00,shippingservice,cpu,13897,180
+2022-04-02 07:51:00,shippingservice,faulty-update,13916,180
+2022-04-02 08:10:00,paymentservice,faulty-update,13935,180
+2022-04-02 08:28:00,addtocart,excessive flow,13953,180
+2022-04-02 08:47:00,checkout,excessive flow,13972,180
+2022-04-02 09:06:00,recommendationservice,faulty-update,13991,180
+2022-04-02 09:25:00,checkoutservice,faulty-update,14010,180
+2022-04-02 09:43:00,adservice,cpu,14028,180
+2022-04-02 10:02:00,browseproduct,excessive flow,14047,180
+2022-04-02 10:20:00,paymentservice,faulty-update,14065,180
+2022-04-02 10:39:00,recommendationservice,cpu,14084,180
+2022-04-02 10:58:00,mysql,db_delay,14103,180
+2022-04-02 11:17:00,adservice,cpu,14122,180
+2022-04-02 11:36:00,addtocart,excessive flow,14141,180
+2022-04-02 11:56:00,checkoutservice,cpu,14161,180
+2022-04-02 12:15:00,emailservice,faulty-update,14180,180
+2022-04-02 12:34:00,checkoutservice,faulty-update,14199,180
+2022-04-02 12:53:00,checkout,excessive flow,14218,180
+2022-04-02 13:12:00,shippingservice,faulty-update,14237,180
+2022-04-02 13:31:00,cartservice,faulty-update,14256,180
+2022-04-02 13:49:00,emailservice,cpu,14274,180
+2022-04-02 14:07:00,mysql,db_delay,14292,180
+2022-04-02 14:26:00,paymentservice,faulty-update,14311,180
+2022-04-02 14:44:00,adservice,cpu,14329,180
+2022-04-02 15:03:00,adservice,cpu,14348,180
+2022-04-02 15:22:00,checkout,excessive flow,14367,180
+2022-04-02 15:42:00,emailservice,faulty-update,14387,180
+2022-04-02 16:01:00,recommendationservice,cpu,14406,180
+2022-04-02 16:21:00,viewcart,excessive flow,14426,180
+2022-04-02 16:39:00,adservice,cpu,14444,180
+2022-04-02 16:58:00,paymentservice,faulty-update,14463,180
+2022-04-02 17:17:00,checkoutservice,faulty-update,14482,180
+2022-04-02 17:36:00,index,excessive flow,14501,180
+2022-04-02 17:55:00,recommendationservice,faulty-update,14520,180
+2022-04-02 18:14:00,emailservice,faulty-update,14539,180
+2022-04-02 18:33:00,mysql,db_delay,14558,180
+2022-04-02 18:52:00,adservice,faulty-update,14577,180
+2022-04-02 19:10:00,checkoutservice,faulty-update,14595,180
+2022-04-02 19:30:00,browseproduct,excessive flow,14615,180
+2022-04-02 19:49:00,adservice,cpu,14634,180
+2022-04-02 20:08:00,mysql,db_delay,14653,180
+2022-04-02 20:27:00,emailservice,cpu,14672,180
+2022-04-02 20:47:00,checkout,excessive flow,14692,180
+2022-04-02 21:06:00,recommendationservice,faulty-update,14711,180
+2022-04-02 21:25:00,adservice,faulty-update,14730,180
+2022-04-02 21:44:00,checkoutservice,latency,14749,180
+2022-04-02 22:03:00,cartservice,cpu,14768,180
+2022-04-02 22:23:00,adservice,cpu,14788,180
+2022-04-02 22:42:00,mysql,db_delay,14807,180
+2022-04-02 23:01:00,adservice,cpu,14826,180
+2022-04-02 23:19:00,checkout,excessive flow,14844,180
+2022-04-02 23:39:00,index,excessive flow,14864,180
+2022-04-02 23:58:00,adservice,faulty-update,14883,180
+2022-04-03 00:16:00,recommendationservice,cpu,14901,180
+2022-04-03 00:35:00,paymentservice,faulty-update,14920,180
+2022-04-03 00:54:00,productcatalogservice,latency,14939,180
+2022-04-03 01:13:00,productcatalogservice,faulty-update,14958,180
+2022-04-03 01:32:00,checkoutservice,cpu,14977,180
+2022-04-03 01:51:00,shippingservice,faulty-update,14996,180
+2022-04-03 02:10:00,addtocart,excessive flow,15015,180
+2022-04-03 02:28:00,cartservice,cpu,15033,180
+2022-04-03 02:49:00,shippingservice,faulty-update,15054,180
+2022-04-03 03:08:00,adservice,cpu,15073,180
+2022-04-03 03:26:00,productcatalogservice,faulty-update,15091,180
+2022-04-03 03:44:00,setcurrency,excessive flow,15109,180
+2022-04-03 04:04:00,productcatalogservice,latency,15129,180
+2022-04-03 04:23:00,cartservice,cpu,15148,180
+2022-04-03 04:42:00,adservice,faulty-update,15167,180
+2022-04-03 05:01:00,paymentservice,faulty-update,15186,180
+2022-04-03 05:19:00,browseproduct,excessive flow,15204,180
+2022-04-03 05:38:00,checkout,excessive flow,15223,180
+2022-04-03 05:57:00,recommendationservice,latency,15242,180
+2022-04-03 06:17:00,mysql,db_delay,15262,180
+2022-04-03 06:36:00,adservice,faulty-update,15281,180
+2022-04-03 06:55:00,checkoutservice,latency,15300,180
+2022-04-03 07:14:00,cartservice,cpu,15319,180
+2022-04-03 07:33:00,browseproduct,excessive flow,15338,180
+2022-04-03 07:53:00,adservice,cpu,15358,180
+2022-04-03 08:12:00,setcurrency,excessive flow,15377,180
+2022-04-03 08:32:00,adservice,cpu,15397,180
+2022-04-03 08:51:00,viewcart,excessive flow,15416,180
+2022-04-03 09:10:00,browseproduct,excessive flow,15435,180
+2022-04-03 09:28:00,adservice,faulty-update,15453,180
+2022-04-03 09:47:00,emailservice,cpu,15472,180
+2022-04-03 10:06:00,mysql,db_delay,15491,180
+2022-04-03 10:26:00,mysql,db_delay,15511,180
+2022-04-03 10:44:00,mysql,db_delay,15529,180
+2022-04-03 11:03:00,emailservice,cpu,15548,180
+2022-04-03 11:22:00,checkout,excessive flow,15567,180
+2022-04-03 11:41:00,paymentservice,cpu,15586,180
+2022-04-03 12:00:00,adservice,cpu,15605,180
+2022-04-03 12:20:00,adservice,faulty-update,15625,180
+2022-04-03 12:39:00,browseproduct,excessive flow,15644,180
+2022-04-03 12:59:00,adservice,faulty-update,15664,180
+2022-04-03 13:17:00,addtocart,excessive flow,15682,180
+2022-04-03 13:36:00,adservice,cpu,15701,180
+2022-04-03 13:55:00,checkoutservice,faulty-update,15720,180
+2022-04-03 14:14:00,checkout,excessive flow,15739,180
+2022-04-03 14:33:00,addtocart,excessive flow,15758,180
+2022-04-03 14:52:00,checkoutservice,faulty-update,15777,180
+2022-04-03 15:11:00,checkoutservice,latency,15796,180
+2022-04-03 15:31:00,checkoutservice,cpu,15816,180
+2022-04-03 15:50:00,setcurrency,excessive flow,15835,180
+2022-04-03 16:09:00,adservice,cpu,15854,180
+2022-04-03 16:23:00,mysql,db_delay,15868,180
+2022-04-03 16:42:00,currencyservice,faulty-update,15887,180
+2022-04-03 17:02:00,adservice,faulty-update,15907,180
+2022-04-03 17:21:00,shippingservice,faulty-update,15926,180
+2022-04-03 17:40:00,recommendationservice,latency,15945,180
+2022-04-03 18:00:00,emailservice,faulty-update,15965,180
+2022-04-03 18:18:00,mysql,db_delay,15983,180
+2022-04-03 18:37:00,currencyservice,faulty-update,16002,180
+2022-04-03 18:57:00,productcatalogservice,faulty-update,16022,180
+2022-04-03 19:16:00,viewcart,excessive flow,16041,180
+2022-04-03 19:35:00,addtocart,excessive flow,16060,180
+2022-04-03 19:53:00,checkoutservice,faulty-update,16078,180
+2022-04-03 20:11:00,shippingservice,faulty-update,16096,180
+2022-04-03 20:29:00,recommendationservice,faulty-update,16114,180
+2022-04-03 20:49:00,emailservice,faulty-update,16134,180
+2022-04-03 21:08:00,adservice,cpu,16153,180
+2022-04-03 21:28:00,emailservice,faulty-update,16173,180
+2022-04-03 21:47:00,mysql,db_delay,16192,180
+2022-04-03 22:06:00,addtocart,excessive flow,16211,180
+2022-04-03 22:26:00,productcatalogservice,faulty-update,16231,180
+2022-04-03 22:45:00,checkoutservice,faulty-update,16250,180
+2022-04-03 23:03:00,productcatalogservice,latency,16268,180
+2022-04-03 23:22:00,paymentservice,cpu,16287,180
+2022-04-03 23:40:00,shippingservice,faulty-update,16305,180
+2022-04-03 23:59:00,cartservice,latency,16324,180
+2022-04-04 00:19:00,productcatalogservice,latency,16344,180
+2022-04-04 00:38:00,addtocart,excessive flow,16363,180
+2022-04-04 00:57:00,emailservice,cpu,16382,180
+2022-04-04 01:16:00,adservice,cpu,16401,180
+2022-04-04 01:35:00,emailservice,faulty-update,16420,180
+2022-04-04 01:54:00,checkout,excessive flow,16439,180
+2022-04-04 02:13:00,index,excessive flow,16458,180
+2022-04-04 02:32:00,browseproduct,excessive flow,16477,180
+2022-04-04 02:51:00,adservice,cpu,16496,180
+2022-04-04 03:10:00,paymentservice,faulty-update,16515,180
+2022-04-04 03:29:00,addtocart,excessive flow,16534,180
+2022-04-04 03:48:00,paymentservice,cpu,16553,180
+2022-04-04 04:07:00,viewcart,excessive flow,16572,180
+2022-04-04 04:25:00,cartservice,faulty-update,16590,180
+2022-04-04 04:45:00,cartservice,latency,16610,180
+2022-04-04 05:03:00,mysql,db_delay,16628,180
+2022-04-04 05:21:00,productcatalogservice,latency,16646,180
+2022-04-04 05:40:00,checkoutservice,faulty-update,16665,180
+2022-04-04 05:58:00,browseproduct,excessive flow,16683,180
+2022-04-04 06:17:00,checkoutservice,faulty-update,16702,180
+2022-04-04 06:36:00,checkout,excessive flow,16721,180
+2022-04-04 06:55:00,adservice,cpu,16740,180
+2022-04-04 07:13:00,addtocart,excessive flow,16758,180
+2022-04-04 07:32:00,index,excessive flow,16777,180
+2022-04-04 07:51:00,checkoutservice,cpu,16796,180
+2022-04-04 08:10:00,currencyservice,faulty-update,16815,180
+2022-04-04 08:30:00,adservice,cpu,16835,180
+2022-04-04 08:48:00,recommendationservice,latency,16853,180
+2022-04-04 09:07:00,mysql,db_delay,16872,180
+2022-04-04 09:25:00,checkout,excessive flow,16890,180
+2022-04-04 09:45:00,mysql,db_delay,16910,180
+2022-04-04 10:03:00,index,excessive flow,16928,180
+2022-04-04 10:23:00,checkout,excessive flow,16948,180
+2022-04-04 10:42:00,checkoutservice,faulty-update,16967,180
+2022-04-04 11:02:00,setcurrency,excessive flow,16987,180
+2022-04-04 11:21:00,adservice,cpu,17006,180
+2022-04-04 11:39:00,checkoutservice,faulty-update,17024,180
+2022-04-04 11:58:00,checkoutservice,faulty-update,17043,180
+2022-04-04 12:17:00,checkoutservice,faulty-update,17062,180
+2022-04-04 12:37:00,checkoutservice,faulty-update,17082,180
+2022-04-04 12:56:00,index,excessive flow,17101,180
+2022-04-04 13:14:00,adservice,cpu,17119,180
+2022-04-04 13:33:00,setcurrency,excessive flow,17138,180
+2022-04-04 13:53:00,paymentservice,faulty-update,17158,180
+2022-04-04 14:11:00,paymentservice,cpu,17176,180
+2022-04-04 14:30:00,viewcart,excessive flow,17195,180
+2022-04-04 14:50:00,index,excessive flow,17215,180
+2022-04-04 15:09:00,adservice,cpu,17234,180
+2022-04-04 15:27:00,currencyservice,faulty-update,17252,180
+2022-04-04 15:47:00,productcatalogservice,faulty-update,17272,180
+2022-04-04 16:05:00,viewcart,excessive flow,17290,180
+2022-04-04 16:24:00,setcurrency,excessive flow,17309,180
+2022-04-04 16:43:00,checkoutservice,cpu,17328,180
+2022-04-04 17:02:00,addtocart,excessive flow,17347,180
+2022-04-04 17:20:00,mysql,db_delay,17365,180
+2022-04-04 17:39:00,shippingservice,faulty-update,17384,180
+2022-04-04 17:59:00,adservice,cpu,17404,180
+2022-04-04 18:18:00,emailservice,cpu,17423,180
+2022-04-04 18:36:00,productcatalogservice,faulty-update,17441,180
+2022-04-04 18:55:00,index,excessive flow,17460,180
+2022-04-04 19:14:00,checkoutservice,faulty-update,17479,180
+2022-04-04 19:32:00,emailservice,cpu,17497,180
+2022-04-04 19:51:00,browseproduct,excessive flow,17516,180
+2022-04-04 20:09:00,adservice,faulty-update,17534,180
+2022-04-04 20:27:00,viewcart,excessive flow,17552,180
+2022-04-04 20:46:00,adservice,cpu,17571,180
